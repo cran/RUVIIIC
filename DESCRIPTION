@@ -1,7 +1,7 @@
 Package: RUVIIIC
 Type: Package
 Title: RUV-III-C
-Version: 1.0.16
+Version: 1.0.17
 Date: 2020-08-31
 Author: Rohan Shah [aut, cre], Sean Peters [ctb], Qing Zhong [ctb], Children's Medical Research Institute [cph]
 Maintainer: Rohan Shah <rshah@cmri.org.au>
@@ -16,9 +16,9 @@ LinkingTo: Rcpp, RcppEigen, RSpectra, RcppProgress
 Suggests: ruv, testthat
 Depends: R (>= 3.5), RSpectra, progress
 Collate: 'RcppExports.R' 'RUVIII_C.R' 'RUVIII_C_Varying.R' 'data.R'
-        'roxygen.R'
+        'roxygen.R' 'threads.R'
 RoxygenNote: 7.1.1
 NeedsCompilation: yes
-Packaged: 2020-08-31 09:04:35 UTC; rshah
+Packaged: 2020-09-07 03:15:54 UTC; rshah
 Repository: CRAN
-Date/Publication: 2020-09-04 07:52:08 UTC
+Date/Publication: 2020-09-08 12:40:35 UTC
