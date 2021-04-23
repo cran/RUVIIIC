@@ -1,4 +1,4 @@
-42a526c23931106a49e2e414341cc8d3 *DESCRIPTION
+2ecba827bbef1374d95941f9d98066a1 *DESCRIPTION
 589c7b46c57bc2f2e6f60b2cd0902333 *LICENSE
 d45a7e29e65c760e019afb5062c75a5d *NAMESPACE
 aee759872f1f0d228a97a3726e7ff1d3 *R/RUVIII_C.R
@@ -15,8 +15,8 @@ f1c0bee32734ba38a94a9435801659dc *man/RUVIII_C_Varying_residual_dimension.Rd
 72434b6e78d6a33bf5d8576c7fe15b30 *man/peptideData.Rd
 346e429c154ccad5d70f0f5fe3b679d1 *man/sisPeptides.Rd
 9b3d4df4f3878b3637bf844aaaf6f43f *src/Makevars
-8a4b4db9cd05a4a9870381194cf9bae1 *src/RUVIIIC.cpp
-5023e3cc2da6bf43b99f81184d7ac12a *src/RUVIIIC_Varying.cpp
+f50da1b658bf57294c0cd26ce571a5af *src/RUVIIIC.cpp
+242c1196b346a4d25c51be5631d1e9cb *src/RUVIIIC_Varying.cpp
 ca5b8f274848b8979437d8a4da8ee87a *src/RUVIIIC_openmp.cpp
 ecba93cc8ff06d052c9b6ea0d0201a0d *src/RUVIIIC_openmp.h
 5d4b784edffbb3f9559442dc1e30f243 *src/RcppExports.cpp
